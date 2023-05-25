@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="034650d0-0e30-493d-ae17-340b1ebee77d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJIDEA\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="C:\Users\leile\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QETYGkGLEu7NSB2gkxPy5fRl1v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="034650d0-0e30-493d-ae17-340b1ebee77d" name="Default Changelist" comment="" />
+      <created>1684917790005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684917790005</updated>
+      <workItem from="1684917791508" duration="1068000" />
+      <workItem from="1684918903852" duration="991000" />
+      <workItem from="1684928614183" duration="176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3930" y="0" key="#Project_Structure" timestamp="1684918052816">
+      <screen x="3840" y="0" width="1218" height="720" />
+    </state>
+    <state x="3930" y="0" key="#Project_Structure/0.0.1536.824/3840.0.1218.720@3840.0.1218.720" timestamp="1684918052816" />
+    <state x="399" y="80" key="FileChooserDialogImpl" timestamp="1684928679008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="80" key="FileChooserDialogImpl/0.0.1536.824/3840.0.1218.720@0.0.1536.824" timestamp="1684928679008" />
+    <state x="3951" y="5" key="SettingsEditor" timestamp="1684918458002">
+      <screen x="3840" y="0" width="1218" height="720" />
+    </state>
+    <state x="3951" y="5" key="SettingsEditor/0.0.1536.824/3840.0.1218.720@3840.0.1218.720" timestamp="1684918458002" />
+    <state x="0" y="0" key="new project wizard" timestamp="1684928787130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824/3840.0.1218.720@0.0.1536.824" timestamp="1684928787130" />
+    <state x="3840" y="0" key="new project wizard/0.0.1536.824/3840.0.1218.720@3840.0.1218.720" timestamp="1684918042580" />
+  </component>
+</project>
